@@ -6,5 +6,4 @@ For those new to GitHub: Me too. Check out the issues tab to the right? I put a 
 # Branches
 
 master/doc-edits ... branch for documentation edits
-
 master/story-edits ... branch for editing the story documents
