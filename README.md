@@ -1,4 +1,8 @@
-# Pok-mon-Sepia
-Ideas and resources and maybe builds for Pokémon Sepia
+# Pokémon Sepia
+This is the WIP readme for Pokémon Sepia. 
 
-More comprehensive is readme.doc. Check that out.
+For those new to GitHub: Me too. Check out the issues tab to the right? I put a discussion there, and I think it's a good place for most of our discussions. All of us are intelligent; I'm sure we can figure this stuff out.
+
+# Branches
+
+master/doc-edits ... branch for documentation edits
